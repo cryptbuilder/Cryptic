@@ -27,12 +27,10 @@
 
 4. Persistent storage & Perpetual storage: Physical copy of data may get lost or damaged due to any reason but data stored on IPFS and Pinned using Filecoin are totally secure and everlasting. Even if the big bang happens on eath, data on the File coin will be accessible from other planets through satellite node which Protocol Labs team is planning :)
 
-### Contracts on Patex:
+### Contracts on Patex Sepolia:
 
-
-
-**1) Cryptic Vault Contract : https://sepolia.etherscan.io/address/0x0005A12fFB8edf3D93E49fEb79E3ea45883B1de2**  
-**2) Cryptic Agreement Contract : https://sepolia.etherscan.io/address/0x89d050840d9B93AA6E5f73A350921dD1818059f7** 
+**1) Cryptic Vault Contract : https://testnet.patexscan.io/address/0x0005A12fFB8edf3D93E49fEb79E3ea45883B1de2**  
+**2) Cryptic Agreement Contract : https://testnet.patexscan.io/address/0x89d050840d9B93AA6E5f73A350921dD1818059f7** 
 
 ## It includes:
 
