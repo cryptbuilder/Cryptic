@@ -1,19 +1,8 @@
-// Testnet
-
-// export const crypticVaultContractEthAddress =
-//   "0x5cc5863b5A7f494Ed373bCf1eBb0C7Ec92445F2E";
-
-// export const crypticAgreementFactoryEthAddress =
-//   "0x8a876AA03e99bFb3a961256D24CC3aA16B7de40b";
-
-
-// Mainnet
-
 export const crypticVaultContractEthAddress =
-  "0x36276FA62C84DE4C5f93854124a224E3BDd3407a";
+  "0x0005A12fFB8edf3D93E49fEb79E3ea45883B1de2";
 
 export const crypticAgreementFactoryEthAddress =
-  "0x8F2321dBF70530E5a04A3b4BeBC82489b0b21B1c";
+  "0x89d050840d9B93AA6E5f73A350921dD1818059f7";
 
 export const shortAddress = (addr) =>
   addr.length > 10 && addr.startsWith("0x")

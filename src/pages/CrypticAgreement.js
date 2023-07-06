@@ -184,7 +184,7 @@ function CrypticAgreement() {
                             size="small"
                             onClick={() => {
                               CopyToClipboard(
-                                `https://cryptic-fvm-c60ce7.spheron.app/dashboard/crypticsign/${agreement.aggAddress}`
+                                `http://localhost:3000/dashboard/crypticsign/${agreement.aggAddress}`
                               );
                             }}
                           >

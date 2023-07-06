@@ -5,6 +5,7 @@ require("./tasks");
 require("dotenv").config();
 
 const PRIVATE_KEY = process.env.REACT_APP_PRIVATE_KEY;
+const patexSepoliaUrl = process.env.REACT_APP_PATEX_SEPOLIA_URL
 
 module.exports = {
   solidity: "0.8.4",
@@ -14,9 +15,13 @@ module.exports = {
       runs: 10000,
     },
   },
-  defaultNetwork: "",
+  defaultNetwork: "patex-sepolia",
   networks: {
     hardhat: {},
+    "patex-sepolia": {
+      url: patexSepoliaUrl,
+      accounts: [ PRIVATE_KEY ]
+   }  
   },
   paths: {
     sources: "./contracts",
