@@ -29,9 +29,10 @@
 
 ### Contracts on Patex:
 
-**1) Cryptic Agreement Contract :** 
 
-**2) Cryptic Vault Contract :** 
+
+**1) Cryptic Vault Contract : 0x0005A12fFB8edf3D93E49fEb79E3ea45883B1de2**  
+**2) Cryptic Agreement Contract : 0x89d050840d9B93AA6E5f73A350921dD1818059f7** 
 
 ## It includes:
 
